@@ -1,2 +1,1 @@
-# alpine-x-tauri
-Reference repo
+# Alpine.js x Tauri.js
